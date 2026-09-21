@@ -1,0 +1,11 @@
+C:\Users\user\Documents\GitHub\Nomi_practics\PR1\src\Nomi.Common\bin\Debug\net9.0\Nomi.Common.deps.json
+C:\Users\user\Documents\GitHub\Nomi_practics\PR1\src\Nomi.Common\bin\Debug\net9.0\Nomi.Common.dll
+C:\Users\user\Documents\GitHub\Nomi_practics\PR1\src\Nomi.Common\bin\Debug\net9.0\Nomi.Common.pdb
+C:\Users\user\Documents\GitHub\Nomi_practics\PR1\src\Nomi.Common\obj\Debug\net9.0\Nomi.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\Nomi_practics\PR1\src\Nomi.Common\obj\Debug\net9.0\Nomi.Common.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\Nomi_practics\PR1\src\Nomi.Common\obj\Debug\net9.0\Nomi.Common.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\Nomi_practics\PR1\src\Nomi.Common\obj\Debug\net9.0\Nomi.Common.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Nomi_practics\PR1\src\Nomi.Common\obj\Debug\net9.0\Nomi.Common.dll
+C:\Users\user\Documents\GitHub\Nomi_practics\PR1\src\Nomi.Common\obj\Debug\net9.0\refint\Nomi.Common.dll
+C:\Users\user\Documents\GitHub\Nomi_practics\PR1\src\Nomi.Common\obj\Debug\net9.0\Nomi.Common.pdb
+C:\Users\user\Documents\GitHub\Nomi_practics\PR1\src\Nomi.Common\obj\Debug\net9.0\ref\Nomi.Common.dll
