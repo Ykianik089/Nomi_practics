@@ -1,0 +1,3 @@
+[12:49:55.236] [INFO ] Лог пишется в файл: C:\Users\user\Documents\GitHub\Nomi_practics\PR1\logs\server-2026-09-21.log
+[12:49:55.240] [INFO ] === Nomi UDP-сервер, практическая работа №1 ===
+[12:49:55.261] [INFO ] Nomi UDP-сервер слушает 0.0.0.0:9050 (заголовок 12 байт)
