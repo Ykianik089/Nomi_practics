@@ -1,0 +1,16 @@
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Telemetry\bin\Debug\net8.0\Nomi.Telemetry.deps.json
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Telemetry\bin\Debug\net8.0\Nomi.Telemetry.dll
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Telemetry\bin\Debug\net8.0\Nomi.Telemetry.pdb
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Telemetry\bin\Debug\net8.0\Nomi.Protocol.dll
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Telemetry\bin\Debug\net8.0\Nomi.Protocol.pdb
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Telemetry\obj\Debug\net8.0\Nomi.Telemetry.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Telemetry\obj\Debug\net8.0\Nomi.Telemetry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Telemetry\obj\Debug\net8.0\Nomi.Telemetry.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Telemetry\obj\Debug\net8.0\Nomi.Telemetry.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Telemetry\obj\Debug\net8.0\Nomi.Telemetry.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Telemetry\obj\Debug\net8.0\Nomi.Telemetry.sourcelink.json
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Telemetry\obj\Debug\net8.0\Nomi.Tel.EDDA4895.Up2Date
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Telemetry\obj\Debug\net8.0\Nomi.Telemetry.dll
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Telemetry\obj\Debug\net8.0\refint\Nomi.Telemetry.dll
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Telemetry\obj\Debug\net8.0\Nomi.Telemetry.pdb
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Telemetry\obj\Debug\net8.0\ref\Nomi.Telemetry.dll

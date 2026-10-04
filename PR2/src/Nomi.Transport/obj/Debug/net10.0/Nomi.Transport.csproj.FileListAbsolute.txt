@@ -1,0 +1,16 @@
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Transport\bin\Debug\net10.0\Nomi.Transport.deps.json
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Transport\bin\Debug\net10.0\Nomi.Transport.dll
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Transport\bin\Debug\net10.0\Nomi.Transport.pdb
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Transport\bin\Debug\net10.0\Nomi.Protocol.dll
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Transport\bin\Debug\net10.0\Nomi.Protocol.pdb
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Transport\obj\Debug\net10.0\Nomi.Transport.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Transport\obj\Debug\net10.0\Nomi.Transport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Transport\obj\Debug\net10.0\Nomi.Transport.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Transport\obj\Debug\net10.0\Nomi.Transport.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Transport\obj\Debug\net10.0\Nomi.Transport.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Transport\obj\Debug\net10.0\Nomi.Transport.sourcelink.json
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Transport\obj\Debug\net10.0\Nomi.Tra.E81A7BAB.Up2Date
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Transport\obj\Debug\net10.0\Nomi.Transport.dll
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Transport\obj\Debug\net10.0\refint\Nomi.Transport.dll
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Transport\obj\Debug\net10.0\Nomi.Transport.pdb
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Transport\obj\Debug\net10.0\ref\Nomi.Transport.dll
