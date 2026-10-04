@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Nomi.Client/1.0.0": {
+        "dependencies": {
+          "Nomi.Protocol": "1.0.0",
+          "Nomi.Telemetry": "1.0.0",
+          "Nomi.Transport": "1.0.0"
+        },
+        "runtime": {
+          "Nomi.Client.dll": {}
+        }
+      },
+      "Nomi.Protocol/1.0.0": {
+        "runtime": {
+          "Nomi.Protocol.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Nomi.Telemetry/1.0.0": {
+        "dependencies": {
+          "Nomi.Protocol": "1.0.0"
+        },
+        "runtime": {
+          "Nomi.Telemetry.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Nomi.Transport/1.0.0": {
+        "dependencies": {
+          "Nomi.Protocol": "1.0.0"
+        },
+        "runtime": {
+          "Nomi.Transport.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nomi.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Nomi.Protocol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Nomi.Telemetry/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Nomi.Transport/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Protocol\bin\Debug\net8.0\Nomi.Protocol.deps.json
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Protocol\bin\Debug\net8.0\Nomi.Protocol.dll
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Protocol\bin\Debug\net8.0\Nomi.Protocol.pdb
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Protocol\obj\Debug\net8.0\Nomi.Protocol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Protocol\obj\Debug\net8.0\Nomi.Protocol.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Protocol\obj\Debug\net8.0\Nomi.Protocol.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Protocol\obj\Debug\net8.0\Nomi.Protocol.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Protocol\obj\Debug\net8.0\Nomi.Protocol.sourcelink.json
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Protocol\obj\Debug\net8.0\Nomi.Protocol.dll
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Protocol\obj\Debug\net8.0\refint\Nomi.Protocol.dll
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Protocol\obj\Debug\net8.0\Nomi.Protocol.pdb
+C:\Users\user\Documents\GitHub\Nomi_practics\PR2\src\Nomi.Protocol\obj\Debug\net8.0\ref\Nomi.Protocol.dll
